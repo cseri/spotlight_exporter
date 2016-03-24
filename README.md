@@ -23,7 +23,7 @@ Prerequisites
 The following must be installed:
 
 - Python 2.7
-- PIL
+- PIL (Python Imaging Library)
 
 
 License
